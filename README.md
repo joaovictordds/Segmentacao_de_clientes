@@ -6,14 +6,11 @@ Em posse dessa lista, o time de Marketing fará uma sequência de ações person
 
 Como resultado para esse projeto, é esperado que você entregue uma lista de pessoas elegíveis a participar do programa Insiders, junto com um relatório respondendo às seguintes perguntas:
 
-- Quem são as pessoas elegíveis para participar do programa de Insiders ?
-- Quantos clientes farão parte do grupo?
+- Quem são os melhores clientes ?
+- Qual a quantidade em volume e faturamento deles?
 - Quais as principais características desses clientes ?
-- Qual a porcentagem de contribuição do faturamento, vinda do Insiders ?
 - Qual a expectativa de faturamento desse grupo para os próximos meses ?
-- Quais as condições para uma pessoa ser elegível ao Insiders ?
-- Quais as condições para uma pessoa ser removida do Insiders ?
-- Qual a garantia que o programa Insiders é melhor que o restante da base ?
+- Sazonalidade?
 - Quais ações o time de marketing pode realizar para aumentar o faturamento?
 
 Roteiro Sugerido para a Solução:
