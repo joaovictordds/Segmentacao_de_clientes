@@ -24,5 +24,4 @@ Roteiro Sugerido para a Solução:
 - Contabilizar a performance do modelo de machine learning e transformar em performance de negócio.
 - Desenvolver uma API que retorne um “Score de Cluster” para cada cliente, indicando à qual cluster ele pertence.
 
-- Criar um material sobre como interpretar e usar a sua solução.
-- Escrever um relatório, respondendo às perguntas de negócio.
+[Link](https://medium.com/@joaovictordds/segmenta%C3%A7%C3%A3o-de-clientes-algoritmo-de-clusteriza%C3%A7%C3%A3o-k-means-a5ec84c774d3) da análise.
