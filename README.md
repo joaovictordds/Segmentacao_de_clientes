@@ -1,4 +1,6 @@
-### Projeto para Segmentacao de clientes
+![alt_image](https://www.mediapost.com.br/assets/uploads/2017/10/porque-segmentar-os-clientes.jpg)
+
+### Projeto de Segmentacao de clientes
 
 A empresa All In One Place precisa determinar quem são os clientes elegíveis para participar da campanha *Insiders*.
 
